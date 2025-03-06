@@ -3,6 +3,17 @@
   <img src="https://github.com/user-attachments/assets/f561a38f-1215-4a1a-9f73-4ea61fea9abd"/>
 </div>
 
+<br>
+
+<div align="center">
+  
+`Hi, I'm interested in astronomy and data science.` <br>
+`Welcome any discussion and comments :D`
+
+</div>
+
+<br>
+
 <!--내용 부분-->
 <h3 align="center">💫 Tech Stack 💫</h3>
 <div align="center">
